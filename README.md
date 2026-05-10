@@ -71,7 +71,3 @@ It contains these folder and files :
 - Autoprefixer
 - Purge CSS
 - Mini CSS Extractor Plugin
-
-
-
-
